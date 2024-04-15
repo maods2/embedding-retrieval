@@ -1,0 +1,9 @@
+
+model: 'efficientnetb0'
+embedding_dim: 1280
+pipeline: 0
+train: False
+batch_size: 128
+dataset_path: 'C:/Users/Maods/Documents/Development/Mestrado/terumo/apps/embedding-retrieval/data/terumo-data-testset'
+save_file_path: 'C:/Users/Maods/Documents/Development/Mestrado/terumo/apps/embedding-retrieval/embeddings/efficientnetb0_4096_pretrained_test.pickle'
+model_state_dict_path: 'C:/Users/Maods/Documents/Development/Mestrado/terumo/apps/embedding-retrieval/checkpoints/embedding_models/efficientnetb0_triplet_2023-09-17-20-06-09/checkpoint.pth.tar'

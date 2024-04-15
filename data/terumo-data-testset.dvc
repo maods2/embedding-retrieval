@@ -1,0 +1,6 @@
+outs:
+- md5: 2d7b88aed9455a3ffd85c604d14f0dcf.dir
+  size: 46964223
+  nfiles: 73
+  hash: md5
+  path: terumo-data-testset

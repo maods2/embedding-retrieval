@@ -1,0 +1,6 @@
+outs:
+- md5: 9711f584a6d2a4701a2a3a250914acd7.dir
+  size: 1759168780
+  nfiles: 7582
+  hash: md5
+  path: terumo-data-training

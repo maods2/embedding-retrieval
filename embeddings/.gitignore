@@ -1,0 +1,14 @@
+/efficientnet_SwaV_test.pickle
+/efficientnet_SwaV_train.pickle
+/efficientnetb0_4096_autoencoder_test.pickle
+/efficientnetb0_4096_autoencoder_train.pickle
+/efficientnetb0_4096_pretrained_test.pickle
+/efficientnetb0_4096_pretrained_train.pickle
+/semantic_att_efficientnet_SwaV_test.pickle
+/semantic_att_efficientnetb0_encoder_test.pickle
+/semantic_att_efficientnetb0_encoder_train.pickle
+/semantic_att_efficientnetb0_test.pickle
+/semantic_att_efficientnetb0_train.pickle
+/semantic_att_efficientnet_SwaV_train.pickle
+/semantic_test.pickle
+/semantic_train.pickle

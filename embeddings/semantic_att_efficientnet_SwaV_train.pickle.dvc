@@ -1,0 +1,5 @@
+outs:
+- md5: ddeac641b8405933081aed87af1dd423
+  size: 78780832
+  hash: md5
+  path: semantic_att_efficientnet_SwaV_train.pickle

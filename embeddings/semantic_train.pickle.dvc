@@ -1,0 +1,5 @@
+outs:
+- md5: 7f6fd166c6948848fa9eeb08692f257b
+  size: 1141133
+  hash: md5
+  path: semantic_train.pickle

@@ -1,0 +1,5 @@
+outs:
+- md5: fb4a58ebf603d5c34c6f182c5a4434ff
+  size: 761585416
+  hash: md5
+  path: efficientnetb0_4096_autoencoder_train.pickle

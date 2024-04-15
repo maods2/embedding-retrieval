@@ -1,0 +1,6 @@
+outs:
+- md5: ef66869f3d6e8b422a5b0d995c8016a5.dir
+  size: 291732102
+  nfiles: 6
+  hash: md5
+  path: semantic_models

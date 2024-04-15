@@ -1,0 +1,5 @@
+outs:
+- md5: c3b3846ed22bab1c2f38f6b2520ed08f
+  size: 78356224
+  hash: md5
+  path: efficientnetb0_4096_pretrained_train.pickle
