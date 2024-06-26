@@ -1,0 +1,6 @@
+save_embedding_path = "C:/Users/Maods/Documents/Development/Mestrado/terumo/apps/embedding-retrieval/embeddings/semantic_attributes_bracs"
+basepath = "C:/Users/Maods/Documents/Development/Mestrado/terumo/apps/embedding-retrieval/embeddings/"
+embeddings_train= [ "autoencoder_train.pickle", "swav_train.pickle", "triplet_train.pickle"]
+embeddings_test= [ "autoencoder_test.pickle", "swav_test.pickle", "triplet_test.pickle"]
+semantic_train = "semantic_attributes_bracs_train.pickle"
+semantic_test = "semantic_attributes_bracs_test.pickle"

@@ -1,0 +1,12 @@
+model="efficientnetb0"
+embedding_dim=1280
+pipeline="triplet"
+batch_size =20
+inf_batch_size=128
+lr=0.001
+epochs=1
+data_path="C:/Users/Maods/Documents/Development/Mestrado/terumo/apps/embedding-retrieval/data/bracs-resized/train"
+val_data_path="C:/Users/Maods/Documents/Development/Mestrado/terumo/apps/embedding-retrieval/data/bracs-resized/test"
+save_embedding_path="./embeddings/triplet"
+triplet_dataset_classes=["0_N","1_PB","2_UDH","3_FEA","4_ADH","5_DCIS","6_IC"]
+triplet_categories_num = 7

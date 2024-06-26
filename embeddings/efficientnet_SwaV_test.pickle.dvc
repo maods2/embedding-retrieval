@@ -1,5 +1,0 @@
-outs:
-- md5: 2985f9742cc90b0f74fd4414d6ce0c4f
-  size: 704351
-  hash: md5
-  path: efficientnet_SwaV_test.pickle

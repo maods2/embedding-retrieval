@@ -1,5 +1,0 @@
-outs:
-- md5: 63311b5b60393b483acbcfcc49495caa
-  size: 6835793
-  hash: md5
-  path: semantic_att_efficientnetb0_encoder_test.pickle

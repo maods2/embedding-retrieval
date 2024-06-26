@@ -1,5 +1,0 @@
-outs:
-- md5: aedb3664db8f3ed23f30dcad6c7c7cf0
-  size: 11824
-  hash: md5
-  path: semantic_test.pickle

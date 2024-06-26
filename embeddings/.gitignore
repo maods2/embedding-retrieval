@@ -12,3 +12,5 @@
 /semantic_att_efficientnet_SwaV_train.pickle
 /semantic_test.pickle
 /semantic_train.pickle
+
+**/*.pickle

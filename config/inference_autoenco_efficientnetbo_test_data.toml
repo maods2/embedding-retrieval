@@ -1,0 +1,8 @@
+model = "efficientnetb0_encoder"
+embedding_dim = 12544
+pipeline = 0
+train = false
+batch_size = 128
+dataset_path = "C:/Users/Maods/Documents/Development/Mestrado/terumo/apps/embedding-retrieval/data/terumo-data-testset"
+save_embedding_path = "C:/Users/Maods/Documents/Development/Mestrado/terumo/apps/embedding-retrieval/embeddings/efficientnetb0_4096_autoencoder_test.pickle"
+model_state_dict_path = "C:/Users/Maods/Documents/Development/Mestrado/terumo/apps/embedding-retrieval/checkpoints/embedding_models/efficientnetb0_encoder_autoencoder_2023-09-18-23-07-57/checkpoint.pth.tar"

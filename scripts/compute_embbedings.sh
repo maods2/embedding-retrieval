@@ -1,0 +1,6 @@
+python src/inference/compute_embbeding.py --config_file=config/inference_autoenco_efficientnetbo_test_data.toml
+python src/inference/compute_embbeding.py --config_file=config/inference_autoenco_efficientnetbo_train_data.toml
+python src/inference/compute_embbeding.py --config_file=config/inference_swav_efficientnetbo_train_data.toml
+python src/inference/compute_embbeding.py --config_file=config/inference_swav_efficientnetbo_train_data.toml
+python src/inference/compute_embbeding.py --config_file=config/inference_triplet_efficientnetbo_test_data.toml
+python src/inference/compute_embbeding.py --config_file=config/inference_triplet_efficientnetbo_train_data.toml

@@ -1,5 +1,0 @@
-outs:
-- md5: 1211de71d8f490d3f8203d366cb3d3fa
-  size: 78780829
-  hash: md5
-  path: semantic_att_efficientnetb0_train.pickle

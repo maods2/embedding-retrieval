@@ -1,0 +1,10 @@
+model = "efficientnetb0_encoder"
+embedding_dim = 12544
+pipeline = "autoencoder"
+batch_size = 32
+inf_batch_size = 128
+lr = 0.001
+epochs = 1
+data_path="C:/Users/Maods/Documents/Development/Mestrado/terumo/apps/embedding-retrieval/data/bracs-resized/train"
+val_data_path="C:/Users/Maods/Documents/Development/Mestrado/terumo/apps/embedding-retrieval/data/bracs-resized/test"
+save_embedding_path = "./embeddings/autoencoder"
